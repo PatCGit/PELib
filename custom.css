@@ -1,0 +1,19 @@
+/* uživatelské styly */
+
+h1 {
+    color: #1660a5;
+}
+
+button {
+    background-color: #93c3f0;
+    border: none;
+    border-radius: 5px;
+    color: #000000;
+    height: 45px;
+    margin: 10px;
+    width: 150px;
+}
+
+button:hover {
+    background-color: #6ca5db;
+}
